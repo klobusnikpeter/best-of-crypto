@@ -8076,6 +8076,7 @@ _Blockchains designed to facilitate the exchange of data and payment information
 - <b><a href="https://github.com/naboxwallet">NABOX</a></b> (🥉1) - Cross-Chain DeFi Wallet with Decentralized Identifier built for Web 3.0. <code><img src="https://git.io/J9cO9" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/kwenta">KWENTA</a></b> (🥉1) - Decentralized derivatives trading platform, live on Optimism, offering real-world and on-..
 - <b><a href="https://github.com/canto-network">CANTO</a></b> (🥉1) - Canto presents the radical notion that core DeFi primitives should exist as Free Public..
+- <b><a href="https://ethgasoptimizer.com">EGO</a></b> (🦊) – EthGasOptimizer helps Ethereum users and traders minimize gas costs by predicting low-fee windows, scheduling transactions, and sending real-time gas alerts — fully non-custodial and easy to use.
 </details>
 
 ---
